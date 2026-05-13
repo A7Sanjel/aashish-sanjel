@@ -40,5 +40,5 @@ Analyzed job posting trends to identify the most in-demand tools, skills, locati
 ## 📫 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/aashish-sanjel-86698b250/
-- **GitHub:** https://github.com/YOUR-GITHUB-USERNAME
+- **GitHub:** https://github.com/A7Sanjel/aashish-sanjel
 - **Email:** aashishsanjel3@gmail.com
